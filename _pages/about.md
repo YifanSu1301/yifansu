@@ -16,4 +16,4 @@ Currently, I am working with Professor [Jiaoyang Li](https://jiaoyangli.me/) on 
 
 - My paper was accepted for an oral presentation at AAAI 2024, and I will be attending the AAAI 2024 conference in Vancouver in person.
 
-- One paper on multi-agent execution was accepted by **AAAI 2024**
+- One [paper](https://yifansu1301.github.io/publication/aaai2024) on multi-agent execution was accepted by **AAAI 2024**

@@ -309,3 +309,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+images:
+  - /images/home/home_pic.webp
+  - /images/home/Concer1.jpg
+  - /images/home/concer2.jpf
+  - /images/home/Kayak2.jpg
+

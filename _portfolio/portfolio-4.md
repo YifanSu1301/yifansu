@@ -21,10 +21,23 @@ Therefore, I decided to use curriculum learning, starting with smaller tasks, so
 
 ### Results:
 
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/5fec5230-d21a-4703-b56f-c04f9c1815d9
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/03802a91-4bbf-4022-b87a-8b5f6ed733ab
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/50934376-f94b-41a8-a771-35c61837e627
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/dd6299f7-7092-4c7f-9956-ade11fe61674
+
+https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/68a08cc0-0bc2-46ca-be20-355ec7c5048d
+
+
+
+
+https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/3e76d770-d9c3-44cf-a2b5-0f424a3dfeba
+
+
+
+
+https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/13b6048e-dd2c-48ae-bdc1-2e7c7dfce869
+
+
+
+https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/e66abeb5-0932-4257-aeea-305bc09cd09c
+
 
 ## Learn from demonstration
 

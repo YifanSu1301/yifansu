@@ -31,7 +31,8 @@ Therefore, I decided to use curriculum learning, starting with smaller tasks, so
 However, manually designing reward functions is indeed very complex, so we tried to extract useful information from videos to allow the robot to learn from them. The key aspects of juggling are the movements of the hands and the motion of the balls. Therefore, we extracted the movement trajectories of the hands and the balls from juggling videos, and let the robot learn these trajectories to try and replicate the movements in the videos.
 
 ### Results:
-
+![hand](/images/portfolio/juggling/3d_plot.png)
+![ShadowHand](/images/portfolio/juggling/ball_trajectory.png)
 ![ShadowHand](/images/portfolio/juggling/shadowhand.gif)
 
 ### Next...

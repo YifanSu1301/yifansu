@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% assign random = site.images | sample %}
-![home_pic]({{ random }}){: .align-right width="300px"}
 
 I am a passionate Computer Science student currently pursuing my junior year at Carnegie Mellon University. My academic journey has been focused on exploring innovative solutions in the realm of robotics and artificial intelligence. 
 

@@ -32,6 +32,7 @@ However, manually designing reward functions is indeed very complex, so we tried
 ### Results:
 
 ![ShadowHand](images/portfolio/juggling/shadowhand.gif)
+![GUST](/images/portfolio/GUST.gif)
 
 ### Next...
 

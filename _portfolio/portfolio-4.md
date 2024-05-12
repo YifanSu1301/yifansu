@@ -31,7 +31,7 @@ However, manually designing reward functions is indeed very complex, so we tried
 
 ### Results:
 
-![ShadowHand](/images/portfolio/juggling/shandowhand.gif)
+![ShadowHand](images/portfolio/juggling/shadowhand.gif)
 
 ### Next...
 

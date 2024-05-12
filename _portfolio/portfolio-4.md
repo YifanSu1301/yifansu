@@ -21,10 +21,6 @@ Therefore, I decided to use curriculum learning, starting with smaller tasks, so
 
 ### Results:
 
-![final_1](/images/portfolio/juggling/final_1.mp4)
-![final_2](/images/portfolio/juggling/final2.mp4)
-![final_3](/images/portfolio/juggling/final_3.mp4)
-![final_4](/images/portfolio/juggling/final_4.mp4)
 
 ## Learn from demonstration
 

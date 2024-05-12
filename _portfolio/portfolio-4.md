@@ -1,6 +1,6 @@
 ---
 title: "Robot Juggling (Continue...)"
-excerpt: "In this study, our focus is on maximizing the robots' coverage of the targets."
+excerpt: "Robot Juggling (Learn from demonstration)"
 collection: portfolio
 ---
 ## Motivation
@@ -20,6 +20,7 @@ Firstly, the biggest problem encountered is that robot juggling is not as simple
 Therefore, I decided to use curriculum learning, starting with smaller tasks, so that I can control its actions through subtasks. Each subtask would be easier to design a reward function for. For example, having the robot hand first learn to throw a ball upwards, then throw another ball to the other hand, catch it, and then proceed to use both hands...
 
 ### Results:
+
 ![final_1](/images/portfolio/juggling/final_1.mp4)
 ![final_2](/images/portfolio/juggling/final2.mp4)
 ![final_3](/images/portfolio/juggling/final_3.mp4)

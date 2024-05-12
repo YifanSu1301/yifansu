@@ -32,7 +32,7 @@ However, manually designing reward functions is indeed very complex, so we tried
 
 ### Results:
 ![hand](/images/portfolio/juggling/3d_plot.png)
-![ShadowHand](/images/portfolio/juggling/ball_trajectory.png)
+![ball](/images/portfolio/juggling/ball_trajactory.png)
 ![ShadowHand](/images/portfolio/juggling/shadowhand.gif)
 
 ### Next...

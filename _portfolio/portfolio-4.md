@@ -25,22 +25,6 @@ Therefore, I decided to use curriculum learning, starting with smaller tasks, so
 ![Final3](/images/portfolio/juggling/final_3.gif)
 ![Final4](/images/portfolio/juggling/final_4.gif)
 
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/68a08cc0-0bc2-46ca-be20-355ec7c5048d
-
-
-
-
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/3e76d770-d9c3-44cf-a2b5-0f424a3dfeba
-
-
-
-
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/13b6048e-dd2c-48ae-bdc1-2e7c7dfce869
-
-
-
-https://github.com/YifanSu1301/yifansu1301.github.io/assets/77670073/e66abeb5-0932-4257-aeea-305bc09cd09c
-
 
 ## Learn from demonstration
 

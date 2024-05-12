@@ -20,10 +20,10 @@ Firstly, the biggest problem encountered is that robot juggling is not as simple
 Therefore, I decided to use curriculum learning, starting with smaller tasks, so that I can control its actions through subtasks. Each subtask would be easier to design a reward function for. For example, having the robot hand first learn to throw a ball upwards, then throw another ball to the other hand, catch it, and then proceed to use both hands...
 
 ### Results:
-![final_1](/images/portfolio/juggling/final_1.mp4){: .align-left width="400px"}
-![final_2](/images/portfolio/juggling/final2.mp4){: .align-left width="400px"}
-![final_3](/images/portfolio/juggling/final_3.mp4){: .align-left width="400px"}
-![final_4](/images/portfolio/juggling/final_4.mp4){: .align-left width="400px"}
+![final_1](/images/portfolio/juggling/final_1.mp4)
+![final_2](/images/portfolio/juggling/final2.mp4)
+![final_3](/images/portfolio/juggling/final_3.mp4)
+![final_4](/images/portfolio/juggling/final_4.mp4)
 
 ## Learn from demonstration
 
@@ -31,8 +31,7 @@ However, manually designing reward functions is indeed very complex, so we tried
 
 ### Results:
 
-![ShadowHand](images/portfolio/juggling/shadowhand.gif)
-![GUST](/images/portfolio/GUST.gif)
+![ShadowHand](/images/portfolio/juggling/shadowhand.gif)
 
 ### Next...
 
